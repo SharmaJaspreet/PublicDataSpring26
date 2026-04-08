@@ -5,7 +5,7 @@
 
 ## About Me
 
-Data Visualization student with a solid background in data analysis, programming, and visual storytelling. Have experience working with complex real-world datasets to find clear, meaningful insights using Python, R, Tableau, and ArcGIS, and looking to gain more experience and continue building my technical skills working with data using different tools and platforms. <img width="468" height="79" alt="image" src="https://github.com/user-attachments/assets/fe7746c3-32f3-4fdf-8b00-ce71a4064211" />
+Data Visualization student with a solid background in data analysis, programming, and visual storytelling. Have experience working with complex real-world datasets to find clear, meaningful insights using Python, R, Tableau, and ArcGIS, and looking to gain more experience and continue building my technical skills working with data using different tools and platforms.
 
 ## Skills & Interests
 
