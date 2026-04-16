@@ -19,7 +19,7 @@ One key insight from the visualization is that the West Seattle Bridge carries s
 
 ## Flourish Link
 
-(https://public.flourish.studio/visualisation/28546076/)
+https://public.flourish.studio/visualisation/28546076/
 
 ## Citations
 
