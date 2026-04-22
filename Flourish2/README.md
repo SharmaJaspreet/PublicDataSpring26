@@ -36,11 +36,11 @@ The dataset provides useful information about police-involved shootings, but mis
 * `missing_data.csv` – Processed dataset used for visualization
 * `README.md` – Project documentation
 
-## Visualization
+## Visualization link
 
-<script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/28656285/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
+https://public.flourish.studio/visualisation/28656285/
 
 ## Source
 
 Seattle Open Data – SPD Officer Involved Shooting (OIS) Data
->>>>>>> 0a41afc (Added README)
+
