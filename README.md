@@ -1,23 +1,46 @@
-# PublicDataSpring26
-# Jaspreet Sharma
+# Analytical Visualization – SPD Officer Involved Shooting (OIS) Data
 
-![Data Visualization Banner](https://plus.unsplash.com/premium_photo-1661881801573-6506e682cbd6?q=80&w=2029&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+## Dataset
 
-## About Me
+This project uses the SPD Officer Involved Shooting (OIS) Data from the Seattle Open Data portal.
+The dataset contains information about police-involved shooting incidents, including officer details, subject information, weapons, injuries, and case outcomes.
 
-Data Visualization student with a solid background in data analysis, programming, and visual storytelling. Have experience working with complex real-world datasets to find clear, meaningful insights using Python, R, Tableau, and ArcGIS, and looking to gain more experience and continue building my technical skills working with data using different tools and platforms.
+## Goal
 
-## Skills & Interests
+The goal of this project is to evaluate the completeness and reliability of the dataset, rather than to tell a narrative about the incidents themselves.
 
-- Data Visualization (Tableau, ggplot2, ArcGIS, InkScape)
-- Data Analysis (Python, R)
-- Data Storytelling & Dashboard Design
-- Ethical Data Practices
-- Urban Data & Predictive Modeling
+## Visualization
 
-## Contact
+A horizontal bar chart was created using Flourish to show the percentage of missing values across key dataset fields.
+The fields analyzed include:
 
-- GitHub: https://github.com/SharmaJaspreet
-- LinkedIn: https://www.linkedin.com/in/sharmajaspreet/
+* Disposition
+* Officer Disciplined?
+* Number of Rounds
+* Subject Type of Weapon
+* Officer Injured
 
-Photo by Unsplash (https://unsplash.com)
+## Findings
+
+* The “Officer Disciplined?” field has the highest missing rate (24%), showing gaps in accountability data.
+* The “Disposition” field also has missing values, limiting insight into case outcomes.
+* This missing vaules accountability fields suggests the dataset is more reliable for describing incidents than evaluating accountability.
+
+## Conclusion
+
+The dataset provides useful information about police-involved shootings, but missing values in key accountability fields reduce its effectiveness for analyzing outcomes and transparency. Additional data cleaning or more complete reporting would be needed for deeper analysis.
+
+## Files Included
+
+* `visualization.png` – Image of the final Flourish chart
+* `missing_data.csv` – Processed dataset used for visualization
+* `README.md` – Project documentation
+
+## Visualization Link
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/28656285"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/28656285/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
+
+## Source
+
+Seattle Open Data – SPD Officer Involved Shooting (OIS) Data
+>>>>>>> 0a41afc (Added README)
