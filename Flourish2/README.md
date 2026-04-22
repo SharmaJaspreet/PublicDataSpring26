@@ -36,9 +36,9 @@ The dataset provides useful information about police-involved shootings, but mis
 * `missing_data.csv` – Processed dataset used for visualization
 * `README.md` – Project documentation
 
-## Visualization Link
+## Visualization
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/28656285"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/28656285/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
+<script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/28656285/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
 
 ## Source
 
