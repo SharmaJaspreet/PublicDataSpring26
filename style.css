@@ -1,0 +1,55 @@
+/* Page styling */
+body {
+    background-color: #f5f0ff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 40px;
+}
+
+/* Main title */
+#title {
+    color: #552583;
+    font-size: 50px;
+}
+
+/* Paragraph text */
+.text {
+    color: #333333;
+    font-size: 20px;
+    width: 70%;
+    margin: auto;
+    padding: 10px;
+    line-height: 1.6;
+}
+
+/* Lakers logo */
+img {
+    width: 250px;
+    display: block;
+    margin: auto;
+    padding: 20px;
+    border: 4px solid #552583;
+}
+
+/* Rating text */
+.rating {
+    color: #FDB927;
+    font-size: 35px;
+}
+
+/* Link styling */
+a {
+    color: #552583;
+    font-size: 20px;
+    text-decoration: none;
+}
+a:hover {
+    color: gold;
+}
+
+/* Credit text */
+.credit {
+    margin-top: 20px;
+    color: gray;
+    font-size: 14px;
+}
