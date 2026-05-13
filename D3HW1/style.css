@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+svg {
+    background-color: white;
+}
+
+circle {
+    fill: steelblue;
+}
+
+text {
+    font-size: 14px;
+}
