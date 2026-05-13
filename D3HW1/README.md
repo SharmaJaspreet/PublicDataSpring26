@@ -23,4 +23,5 @@ The visualization loads data from an external CSV file and uses D3 scales, axes,
 Sample dataset created for educational purposes.
 
 ## Screenshot
-![Scatterplot](screenshot.png)
+<img width="862" height="511" alt="screenshot" src="https://github.com/user-attachments/assets/2e286ae6-9da4-493f-af1a-59e3a21b4849" />
+
