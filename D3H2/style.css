@@ -1,0 +1,30 @@
+body {
+    font-family: "Source Sans 3";
+    background-color: #f4f4f4;
+}
+
+svg {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.axis-label {
+    font-size: 14px;
+}
+
+.bench-line {
+    fill: none;
+    stroke: steelblue;
+    stroke-width: 4;
+}
+
+.squat-line {
+    fill: none;
+    stroke: tomato;
+    stroke-width: 4;
+}
