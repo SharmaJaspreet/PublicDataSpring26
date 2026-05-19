@@ -14,4 +14,5 @@ Data Source:
 Self-created workout dataset for assignment practice.
 
 Screenshot: 
+
 <img width="662" height="421" alt="Screenshot" src="https://github.com/user-attachments/assets/7c7e6690-db78-4a2b-879f-ba63adf3e44d" />
